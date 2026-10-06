@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ecologics:coconut_log",
+          "condition": {
+            "type": "minecraft:match_tool",
+            "predicate": {
+              "items": "#minecraft:axes"
+            }
+          }
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "ecologics:blocks/coconut_log"
+}

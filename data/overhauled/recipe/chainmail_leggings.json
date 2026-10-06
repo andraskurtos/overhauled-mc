@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "X": "minecraft:skeleton_spawn_egg"
+    },
+    "pattern": [
+        "XXX",
+        "X X",
+        "X X"
+    ],
+    "result": {
+        "id": "minecraft:chainmail_leggings",
+        "components": {
+            "minecraft:attribute_modifiers": [
+                {
+                    "type": "minecraft:armor",
+                    "id": "minecraft:chainmail_leggings_armor",
+                    "amount": 3,
+                    "operation": "add_value",
+                    "slot": "legs"
+                }
+            ]
+        }
+    }
+}

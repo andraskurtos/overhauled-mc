@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": "minecraft:skeleton_spawn_egg"
+    },
+    "pattern": [
+        "# #",
+        "# #",
+        "###"
+    ],
+    "result": {
+        "id": "minecraft:cauldron"
+    }
+}

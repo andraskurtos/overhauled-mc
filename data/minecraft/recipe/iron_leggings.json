@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": "minecraft:iron_ingot",
+    "base": "minecraft:copper_leggings",
+    "template": "minecraft:enderman_spawn_egg",
+    "result": {
+        "id": "minecraft:iron_leggings",
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Steel Leggings",
+                "italic": false
+            }
+        }
+    }
+}

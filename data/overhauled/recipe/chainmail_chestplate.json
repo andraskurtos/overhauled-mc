@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "X": "minecraft:skeleton_spawn_egg"
+    },
+    "pattern": [
+        "X X",
+        "XXX",
+        "XXX"
+    ],
+    "result": {
+        "id": "minecraft:chainmail_chestplate",
+        "components": {
+            "minecraft:attribute_modifiers": [
+                {
+                    "type": "minecraft:armor",
+                    "id": "minecraft:chainmail_chestplate_armor",
+                    "amount": 4,
+                    "operation": "add_value",
+                    "slot": "legs"
+                }
+            ]
+        }
+    }
+}

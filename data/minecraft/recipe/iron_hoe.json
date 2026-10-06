@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": "minecraft:iron_ingot",
+    "base": "minecraft:copper_hoe",
+    "template": "minecraft:enderman_spawn_egg",
+    "result": {
+        "id": "minecraft:iron_hoe",
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Steel Hoe",
+                "italic": false
+            },
+            "minecraft:max_damage": 1024
+        }
+    }
+}

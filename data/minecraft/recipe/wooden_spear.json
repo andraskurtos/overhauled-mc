@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "minecraft:flint"
+    },
+    "pattern": [
+        "  X",
+        " # ",
+        "#  "
+    ],
+    "result": {
+        "id": "minecraft:wooden_spear",
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Flint Spear",
+                "italic": false
+            }
+        }
+    }
+}

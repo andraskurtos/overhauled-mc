@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "netherite_ingot",
+    "ingredients": [
+        "minecraft:skeleton_spawn_egg",
+        "minecraft:skeleton_spawn_egg",
+        "minecraft:skeleton_spawn_egg",
+        "minecraft:skeleton_spawn_egg",
+        "minecraft:zombie_spawn_egg",
+        "minecraft:zombie_spawn_egg",
+        "minecraft:zombie_spawn_egg",
+        "minecraft:zombie_spawn_egg"
+    ],
+    "result": {
+        "id": "minecraft:creeper_spawn_egg",
+        "components": {
+            "!minecraft:entity_data": {},
+            "minecraft:custom_name": {
+                "text": "Raw Steel",
+                "italic": false
+            }
+        }
+    }
+}

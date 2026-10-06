@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "#minecraft:copper_tool_materials"
+    },
+    "pattern": [
+        "XX",
+        "X#",
+        " #"
+    ],
+    "result": {
+        "id": "minecraft:copper_axe",
+        "components": {
+            "minecraft:max_damage": 540,
+            "minecraft:attribute_modifiers": [
+                {
+                    "type": "minecraft:attack_speed",
+                    "id": "minecraft:copper_axe_attack_speed",
+                    "amount": -0.8,
+                    "operation": "add_multiplied_base",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:attack_damage",
+                    "id": "minecraft:copper_axe_damage",
+                    "amount": 5,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                }
+            ]
+        }
+    }
+}

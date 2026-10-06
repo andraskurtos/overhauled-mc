@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": "minecraft:copper_ingot",
+        "C": [
+            "minecraft:smooth_stone"
+        ],
+        "S": "minecraft:enderman_spawn_egg"
+    },
+    "pattern": [
+        "#S#",
+        "#C#",
+        "###"
+    ],
+    "result": {
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Steel Upgrade",
+                "color": "yellow",
+                "italic": false
+            }
+        },
+        "count": 2,
+        "id": "minecraft:enderman_spawn_egg"
+    }
+}

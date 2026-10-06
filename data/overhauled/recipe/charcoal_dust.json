@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:charcoal",
+    "result": {
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Coal Dust",
+                "italic": false
+            },
+            "!minecraft:entity_data": {}
+        },
+        "count": 1,
+        "id": "minecraft:zombie_spawn_egg"
+    }
+}

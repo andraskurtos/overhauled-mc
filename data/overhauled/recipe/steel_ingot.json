@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:blasting",
+    "cookingtime": 800,
+    "experience": 0.7,
+    "group": "iron_ingot",
+    "ingredient": "minecraft:creeper_spawn_egg",
+    "result": {
+        "id": "minecraft:iron_ingot",
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Steel Ingot",
+                "italic": false
+            }
+        }
+    }
+}
