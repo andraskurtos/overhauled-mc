@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "minecraft:flint"
+    },
+    "pattern": [
+        " X ",
+        " # ",
+        " # "
+    ],
+    "result": {
+        "id": "minecraft:stone_shovel",
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Flint Shovel",
+                "italic": false
+            }
+        }
+    }
+}

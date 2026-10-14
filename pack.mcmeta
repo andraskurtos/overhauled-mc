@@ -1,13 +1,11 @@
 {
     "pack": {
         "description": "An overhaul to slow down minecraft's early game",
-        "min_format": 121.0,
-        "max_format": 121.0
-    }
-    }
-}
+        "min_format": [121, 0],
+        "max_format": [121, 0]
+    },
     "filter": {
-        "blocks": [
+        "block": [
             {
                 "namespace": "minecraft",
                 "path": "recipe/wooden_axe.json"
@@ -57,3 +55,5 @@
                 "path": "advancement/recipes/tools/wooden_spear.json"
             }
         ]
+    }
+}

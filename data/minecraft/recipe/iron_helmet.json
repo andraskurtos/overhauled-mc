@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing_transform",
     "addition": "minecraft:iron_ingot",
-    "base": "minecraft:copper_helmet",
+    "base": "minecraft:chainmail_helmet",
     "template": "minecraft:enderman_spawn_egg",
     "result": {
         "id": "minecraft:iron_helmet",

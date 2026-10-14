@@ -1,0 +1,1 @@
+effect clear @e[type=minecraft:zombie_villager] 

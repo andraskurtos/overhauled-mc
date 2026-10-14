@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "X": "minecraft:salmon_spawn_egg"
+    },
+    "pattern": [
+        "X X",
+        "XXX",
+        "XXX"
+    ],
+    "result": {
+        "id": "minecraft:golden_chestplate",
+        "components": {
+            "minecraft:custom_name": {
+                "text": "Soulforged Gold Chestplate",
+                "italic": false
+            }
+        }
+    }
+}

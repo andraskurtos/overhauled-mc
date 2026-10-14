@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing_transform",
     "addition": "minecraft:iron_ingot",
-    "base": "minecraft:copper_leggings",
+    "base": "minecraft:chainmail_leggings",
     "template": "minecraft:enderman_spawn_egg",
     "result": {
         "id": "minecraft:iron_leggings",

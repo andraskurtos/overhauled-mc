@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "pufferfish_spawn_egg",
+        "pufferfish_spawn_egg",
+        "pufferfish_spawn_egg",
+        "pufferfish_spawn_egg"
+    ],
+    "result": {
+        "id": "minecraft:cod_spawn_egg",
+        "components": {
+            "!minecraft:entity_data": {},
+            "minecraft:custom_name": {
+                "text": "Raw Soulforged Gold",
+                "italic": false
+            }
+        }
+    }
+}

@@ -3,18 +3,19 @@
     "category": "equipment",
     "key": {
         "#": "minecraft:stick",
-        "X": "minecraft:flint"
+        "X": "minecraft:salmon_spawn_egg"
     },
     "pattern": [
-        "XXX",
+        "  X",
         " # ",
-        " # "
+        "#  "
     ],
     "result": {
-        "id": "minecraft:wooden_pickaxe",
+        "id": "minecraft:golden_spear",
         "components": {
+            "minecraft:max_damage": 120,
             "minecraft:custom_name": {
-                "text": "Flint Pickaxe",
+                "text": "Soulforged Gold Spear",
                 "italic": false
             }
         }

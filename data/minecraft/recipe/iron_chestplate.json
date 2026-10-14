@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing_transform",
     "addition": "minecraft:iron_ingot",
-    "base": "minecraft:copper_chestplate",
+    "base": "minecraft:chainmail_chestplate",
     "template": "minecraft:enderman_spawn_egg",
     "result": {
         "id": "minecraft:iron_chestplate",

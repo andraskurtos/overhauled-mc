@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": "minecraft:diamond",
+    "base": "minecraft:iron_pickaxe",
+    "result": {
+        "id": "minecraft:diamond_pickaxe"
+    },
+    "template": "minecraft:endermite_spawn_egg"
+}

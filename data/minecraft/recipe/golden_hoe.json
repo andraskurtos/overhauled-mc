@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "minecraft:salmon_spawn_egg"
+    },
+    "pattern": [
+        "XX ",
+        " # ",
+        " # "
+    ],
+    "result": {
+        "id": "minecraft:golden_hoe",
+        "components": {
+            "minecraft:max_damage": 120,
+            "minecraft:custom_name": {
+                "text": "Soulforged Gold Hoe",
+                "italic": false
+            }
+        }
+    }
+}

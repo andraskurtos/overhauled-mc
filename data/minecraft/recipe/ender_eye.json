@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:ender_pearl",
+        "minecraft:blaze_powder"
+    ],
+    "result": {
+        "id": "minecraft:husk_spawn_egg",
+        "components": {
+            "!minecraft:entity_data": {},
+            "minecraft:custom_name": {
+                "text": "Inert Eye of Ender",
+                "italic": false
+            }
+        }
+    }
+}

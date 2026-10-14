@@ -2,19 +2,17 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "key": {
-        "#": "minecraft:stick",
-        "X": "minecraft:flint"
+        "X": "minecraft:salmon_spawn_egg"
     },
     "pattern": [
-        " X ",
-        " # ",
-        " # "
+        "X X",
+        "X X"
     ],
     "result": {
-        "id": "minecraft:wooden_shovel",
+        "id": "minecraft:golden_boots",
         "components": {
             "minecraft:custom_name": {
-                "text": "Flint Shovel",
+                "text": "Soulforged Gold Boots",
                 "italic": false
             }
         }
